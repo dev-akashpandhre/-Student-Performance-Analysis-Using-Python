@@ -201,7 +201,7 @@ The project includes:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/student-performance-analysis.git
+gh repo clone dev-akashpandhre/-Student-Performance-Analysis-Using-Python
 ```
 
 ---
