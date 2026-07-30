@@ -146,12 +146,7 @@ Exploratory Data Analysis
       │
       ▼
 Visualization
-      │
-      ▼
-Insights
-      │
-      ▼
-Conclusion
+
 ```
 
 ---
