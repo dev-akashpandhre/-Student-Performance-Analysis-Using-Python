@@ -64,14 +64,10 @@ The project demonstrates the complete **Data Analysis Lifecycle**, including:
 ```text
 Student-Performance-Analysis/
 │
-├── dataset/
+├── notebooks/
 │   ├── student_dataset.csv
 │   └── cleaned_student_dataset.csv
-│
-├── notebooks/
-│   └── Student_Performance_Analysis.ipynb
-│
-├── report/
+│   └── Student_Analysis.ipynb
 │   └── Project_Report.pdf
 │
 │
